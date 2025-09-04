@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\max\Estudo Programação\Udemy\Java\JavaOO_NelioAlves\seção14 Tratament de exceções\Exceções Personalizadas\.metadata\.plugins\org.eclipse.jdt.core
+2252632451.index
+2842031927.index
